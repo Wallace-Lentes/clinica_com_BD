@@ -1,4 +1,4 @@
-
+```markdown
 # Clínica Veterinária 🐾
 
 Sistema em **Python** com interface gráfica (**Tkinter**) e integração com banco de dados **MySQL** para gerenciamento de uma clínica veterinária.
@@ -41,7 +41,7 @@ Clinica vetrinaria com bd/
 
    ```sql
    SOURCE arquivo.sql;
-````
+   ```
 
 3. Configure sua conexão no arquivo `conexao.py` com usuário, senha e host corretos.
 
@@ -56,3 +56,5 @@ Clinica vetrinaria com bd/
    ```bash
    python main.py
    ```
+
+
