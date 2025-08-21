@@ -33,7 +33,7 @@ Clinica vetrinaria com bd/
 
 1. Clone este repositório ou extraia o `.zip`
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Wallace-Lentes/clinica_com_BD.git
    cd Clinica-veterinaria-com-bd
 ````
 
@@ -41,7 +41,7 @@ Clinica vetrinaria com bd/
 
    ```sql
    SOURCE arquivo.sql;
-   ```
+````
 
 3. Configure sua conexão no arquivo `conexao.py` com usuário, senha e host corretos.
 
